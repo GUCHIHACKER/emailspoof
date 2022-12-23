@@ -2,7 +2,7 @@
 email spoofer By 3LF3NIX
 ## Installation:
 ```bash
-sudo apt install sendemail
+sudo apt install sendemail git
 git clone https://github.com/3LF3NIX/emailspoof.git
 cd emailspoof
 chmod +x emailspoofgrafic.py
