@@ -17,7 +17,7 @@ Put the email of your sendingblue acount and your master key in this part of the
 def send_email():
     username = "HERE" # <--------- Put your sendinblue email HERE
     password = "HERE" # <--------- Put your sendinblue master key HERE
-    ```
+```
 ## LEGAL NOTICE
 I am not responsible for the use that is given to this tool.
 
