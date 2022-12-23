@@ -26,7 +26,7 @@ python emailspoofgrafic.py
 ```
 Do not close the terminal and look in your browser for http://localhost:5000 and there is the tool running.
 
-![](https://raw.githubusercontent.com/3LF3NIX/emailspoof/blob/main/toolrunning.png)
+![tool](https://raw.githubusercontent.com/3LF3NIX/emailspoof/blob/main/toolrunning.png)
 
 to stop the tool do Ctrl + C in the terminal and close window the browser tab 
 
