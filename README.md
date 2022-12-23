@@ -5,7 +5,7 @@ email spoofer By 3LF3NIX
 sudo apt install sendemail git
 git clone https://github.com/3LF3NIX/emailspoof.git
 cd emailspoof
-chmod +x emailspoofgrafic.py
+chmod +x emailspoofgrafic.py ./launch.sh
 pip install -r requirements.txt
 ```
 ## Usage:
@@ -22,7 +22,7 @@ def send_email():
 
 Run the tool
 ```bash
-./launch
+./launch.sh
 ```
 
 ![tool](https://github.com/3LF3NIX/emailspoof/blob/main/toolrunning.png)
