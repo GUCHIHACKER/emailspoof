@@ -5,6 +5,7 @@ email spoofer By 3LF3NIX
 sudo apt install sendemail
 git clone https://github.com/3LF3NIX/emailspoof.git
 cd emailspoof
+chmod +x emailspoofgrafic.py
 pip install -r requirements.txt
 ```
 ## Usage:
@@ -18,6 +19,17 @@ def send_email():
     username = "HERE" # <--------- Put your sendinblue email HERE
     password = "HERE" # <--------- Put your sendinblue master key HERE
 ```
+
+Run the tool
+```bash
+python emailspoofgrafic.py
+```
+Do not close the terminal and look in your browser for http://localhost:5000 and there is the tool running.
+
+
+
+to stop the tool do Ctrl + C in the terminal and close window the browser tab 
+
 ## LEGAL NOTICE
 I am not responsible for the use that is given to this tool.
 
