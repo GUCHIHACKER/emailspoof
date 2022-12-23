@@ -24,7 +24,6 @@ Run the tool
 ```bash
 ./launch
 ```
-Do not close the terminal and look in your browser for http://localhost:5000 and there is the tool running.
 
 ![tool](https://github.com/3LF3NIX/emailspoof/blob/main/toolrunning.png)
 
