@@ -18,3 +18,11 @@ def send_email():
     username = "HERE" # <--------- Put your sendinblue email HERE
     password = "HERE" # <--------- Put your sendinblue master key HERE
     ```
+## LEGAL NOTICE
+I am not responsible for the use that is given to this tool.
+
+## mentions
+This tool is inspired by my friend zereza's here is the link to her github repository [zereza's repository](https://github.com/0x9B0x7A/zspoofer).
+
+## little message
+thank you i love you:)
