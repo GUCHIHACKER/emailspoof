@@ -22,7 +22,7 @@ def send_email():
 
 Run the tool
 ```bash
-python emailspoofgrafic.py
+./launch
 ```
 Do not close the terminal and look in your browser for http://localhost:5000 and there is the tool running.
 
