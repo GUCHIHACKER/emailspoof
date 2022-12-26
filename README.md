@@ -28,6 +28,7 @@ Run the tool
 ![tool](https://github.com/3LF3NIX/emailspoof/blob/main/toolrunning.png)
 
 to stop the tool do Ctrl + C in the terminal and close window the browser tab.
+
 If the tool not stop execute this command
 ```bash
 sudo killall python
