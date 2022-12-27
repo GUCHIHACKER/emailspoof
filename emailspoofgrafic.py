@@ -21,7 +21,7 @@ def send_email():
         os.system('sendemail -xu \"'+username+'\" -xp \"'+password+'\" -f \"'+sender+'\" -t \"'+target+'\" -u \"'+subject+'\" -m \"'+message+'\" -s "smtp-relay.sendinblue.com:587" &>/dev/null')
     else:
         os.system('sendemail -xu \"'+username+'\" -xp \"'+password+'\" -f \"'+sender+'\" -t \"'+target+'\" -u \"'+subject+'\" -m \"'+message+'\" -s "smtp-relay.sendinblue.com:587" -o message-header="From: '+name+' <'+sender+'>" &>/dev/null')
-    return '<p>Email send</p><br><a href="/">Click to send another email</a>'
+    return render_template('sent.html')
 
 if __name__ == '__main__':
     app.run()
