@@ -1,5 +1,5 @@
 # emailspoof
-email spoofer By 3LF3NIX and Zereza
+email spoofer By GUCHIH and Zereza
 ## Installation:
 ```bash
 sudo apt install sendemail git
@@ -25,7 +25,7 @@ Run the tool
 ./launch.sh
 ```
 
-![tool](https://github.com/3LF3NIX/emailspoof/blob/main/toolrunning.png)
+![tool](https://github.com/GUCHIHACKER/emailspoof/blob/main/toolrunning.png)
 
 to stop the tool do Ctrl + C in the terminal and close window the browser tab.
 
